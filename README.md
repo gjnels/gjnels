@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gjnels
-- 👀 I’m interested in ... Web Development, Python, Networking, Stephen King, Lord of the Rings
-- 🌱 I’m currently learning ... Web Development (back-end mainly, but hopefully full stack eventually)
+- 👀 I’m interested in ... Web Development, JavaScript, Stephen King, Lord of the Rings
+- 🌱 I’m currently learning ... Web Development
 - 📫 How to reach me ... gnelson@duck.com
 
 <!---
