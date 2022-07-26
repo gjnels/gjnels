@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gjnels
-- 👀 I’m interested in ... Web Development, JavaScript, Stephen King, Lord of the Rings
+- 👀 I’m interested in ... Web Development, JavaScript, React, Stephen King, Lord of the Rings
 - 🌱 I’m currently learning ... Web Development
 - 📫 How to reach me ... gnelson@duck.com
 
